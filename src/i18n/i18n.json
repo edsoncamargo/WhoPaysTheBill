@@ -1,0 +1,80 @@
+{
+    "en": {
+        "appName": ["Who", "pays", "the", "bill?"],
+        "placeholderNameToAdd": "Type a name to add ➕",
+        "addPlayer": "Add a player",
+        "minErrorMessage": "Must be more than 3 char ⚠️",
+        "maxErrorMessage": "Must be until 16 char ⚠️",
+        "requiredErrorMessage": "Sorry, a name is required ⚠️",
+        "onlyLethersErrorMessage": "Only alphabets are allowed for this field ⚠️",
+        "listItemMessage": "No players added 😶‍🌫️",
+        "listItemTitle": "List of players 🫂",
+        "btnGetTheLooser": "Get the looser",
+        "hi": "Hello",
+        "winningMessage": "You will pay the bill",
+        "winningMessages": [
+            "Congratulations! You have been chosen as the victim of the bills this month 😂",
+            "And the lucky one this time is... you. Get ready to pay the bills 🎉",
+            "It seems that destiny has chosen you to enrich the company's cash flow 💸",
+            "It's time to test your wallet and sense of humor. You will pay the bills 😄",
+            "Get ready to be the financial hero this month. It's you who pays 🤑"
+        ],
+        "toastAddedPlayer": "Added the player",
+        "toastRemovedPlayer": ["Removed the player"],
+        "settings": ["Settings", "About", "Language"],
+        "about": [
+            "About the ''Who Pays the Bill?'' App",
+            "Welcome to ''Who Pays the Bill?'' – the fun and casual app that makes the task of deciding who pays the bill a unique and funny experience.",
+            "About the Developer",
+            "My name is Edson Camargo Menezes, and I am the creator of this app. With a Bachelor's degree in Information Systems and a postgraduate degree in Multi-Platform Mobile App Projects, my journey in the world of development began early, at the age of 19. Today, at the age of 24, I am proud to share with you my passion for creating creative and innovative solutions.",
+            "The Idea Behind the App",
+            "''Who Pays the Bill?'' arose from the need to make a common group decision – who will pay the bill – more fun and random. Instead of resorting to traditional methods or tedious discussions, our app offers a playful way to make this decision.",
+            "How It Works",
+            "1. Add Players: Start by adding at least 2 players to the list. The more friends, the more fun!",
+            "2. Funny Drawing: Tap to draw a player and see who is the ''chosen one'' to pay the bill. But don't worry, the funny phrases that come with the drawing will ensure lots of laughs.",
+            "3. Have Fun: Share the result with your friends and enjoy a unique experience of deciding who pays the bill.",
+            "Our Mission",
+            "Our goal is to provide moments of relaxation and laughter among friends, making bill-paying time memorable and fun. After all, life is already serious enough – why not add a touch of humor?",
+            "Thank you for choosing ''Who Pays the Bill?'' for your bill payment decisions. We hope you and your friends have fun and enjoy the experience!"
+        ]
+    },
+    "pt": {
+        "appName": ["Who", "pays", "the", "bill?"],
+        "placeholderNameToAdd": "Digite um nome para adicionar ➕",
+        "addPlayer": "Adicionar",
+        "minErrorMessage": "Deve ter mais de 3 caracteres ⚠️",
+        "maxErrorMessage": "Deve ter até 16 caracteres ⚠️",
+        "requiredErrorMessage": "Desculpe, um nome é obrigatório ⚠️",
+        "onlyLethersErrorMessage": "Apenas letras são permitidas para este campo ⚠️",
+        "listItemMessage": "Nenhum jogador adicionado 😶‍🌫️",
+        "listItemTitle": "Lista de jogadores 🫂",
+        "btnGetTheLooser": "Descubra o perdedor",
+        "hi": "Olá",
+        "winningMessage": "Você vai pagar a conta",
+        "winningMessages": [
+            "Parabéns! Você foi escolhido como a vítima dos boletos deste mês 😂",
+            "E o sortudo da vez é... você. Prepare-se para pagar as contas 🎉",
+            "Parece que o destino escolheu você para enriquecer o caixa da empresa 💸",
+            "É hora de testar sua carteira e senso de humor. Você pagará as contas 😄",
+            "Prepare-se para ser o herói financeiro deste mês. É você quem paga 🤑"
+        ],
+        "toastAddedPlayer": ["Adicionado o jogador"],
+        "toastRemovedPlayer": ["Removido o jogador"],
+        "settings": ["Configurações", "Sobre", "Idioma"],
+        "about": [
+            "Sobre o Aplicativo ''Who Pays the Bill?''",
+            "Bem-vindo ao ''Who Pays the Bill?'' – o aplicativo divertido e descontraído que torna a tarefa de decidir quem vai pagar a conta uma experiência única e engraçada.",
+            "Sobre o Desenvolvedor",
+            "Meu nome é Edson Camargo Menezes, e sou o criador deste aplicativo. Com uma formação em Bacharelado em Sistemas de Informação e uma pós-graduação em Projetos de Aplicativos Móveis Multiplataforma, minha jornada no mundo do desenvolvimento começou cedo, aos 19 anos. Hoje, com 24 anos, tenho orgulho de compartilhar com vocês minha paixão por criar soluções criativas e inovadoras.",
+            "A Ideia por Trás do Aplicativo",
+            "O ''Who Pays the Bill?'' surgiu da necessidade de tornar uma decisão comum em grupo – quem vai pagar a conta – em algo mais divertido e aleatório. Em vez de recorrer a métodos tradicionais ou tediosas discussões, nosso aplicativo oferece uma maneira lúdica de tomar essa decisão.",
+            "Como Funciona",
+            "1. Adicione Jogadores: Comece adicionando pelo menos 2 jogadores à lista. Quanto mais amigos, melhor a diversão!",
+            "2. Sorteio Engraçado: Toque para sortear um jogador, e veja quem é o ''escolhido'' para pagar a conta. Mas não se preocupe, as frases engraçadas que acompanham o sorteio vão garantir muitas risadas.",
+            "3. Divirta-se: Compartilhe o resultado com seus amigos e desfrute de uma experiência única de decidir quem paga a conta.",
+            "Nossa Missão",
+            "Nosso objetivo é proporcionar momentos de descontração e risadas entre amigos, tornando a hora de pagar a conta algo memorável e divertido. Afinal, a vida já é séria o suficiente – por que não adicionar um toque de humor?",
+            "Obrigado por escolher o ''Who Pays the Bill?'' para suas decisões sobre pagamento de contas. Esperamos que você e seus amigos se divirtam e apreciem a experiência!"
+        ]
+    }
+}

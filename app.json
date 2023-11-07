@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "AwesomeProject",
-    "slug": "AwesomeProject",
+    "name": "WPB",
+    "slug": "WhoPaysTheBill",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -9,7 +9,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#211F33"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -20,11 +20,20 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      }
+        "backgroundColor": "#211F33"
+      },
+      "package": "dev.edsoncamargo.WhoPaysTheBill"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e4f13e93-1c2b-48bc-bdc3-292fa2db45cb"
+      }
+    },
+    "plugins": [
+      "expo-localization"
+    ]
   }
 }
