@@ -57,20 +57,20 @@ To run the app locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-        git clone https://github.com/your-username/your-repository.git
-        cd your-repository
+    git clone https://github.com/edsoncamargo/WhoPaysTheBill
+    cd your-path/WhoPaysTheBill
     ```
 
 2. Install the dependencies:
 
     ```bash
-        npm install
+    npm install
     ```
 
 3. Start the app:
 
     ```bash
-        expo start
+    expo start
     ```
 
 4. Scan the QR code using the Expo Go app on your mobile device or use an emulator to test the app.
