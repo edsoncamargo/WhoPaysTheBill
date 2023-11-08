@@ -70,7 +70,7 @@ To run the app locally, follow these steps:
 3. Start the app:
 
     ```bash
-    expo start
+    npx expo start
     ```
 
 4. Scan the QR code using the Expo Go app on your mobile device or use an emulator to test the app.
