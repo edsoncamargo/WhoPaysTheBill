@@ -19,7 +19,7 @@ The following are the key technologies and tools used in the development of this
 
 **Who Pays the Bill?** allows you to add players (at least 2) and then randomly selects a player to pay the bill. The selection process is accompanied by humorous phrases to add a touch of humor to the decision.
 
-### "About" Page
+### About Page
 
 The "About" page provides detailed information about the app and the developer. Here, you can find details about the creator, the inspiration behind the app, and the unique features that make "Who Pays the Bill?" special. Discover more about the custom development of screens, visual identity, the logo, and the unique names that define the app's experience.
 
